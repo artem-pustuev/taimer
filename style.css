@@ -1,0 +1,17 @@
+.container,
+.containet__text {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.out,
+.title {
+    color: rgb(130, 24, 24);
+    font-size: 40px;
+}
+
+.containet__text {
+    margin: 150px 0px 0px 0px;
+}
